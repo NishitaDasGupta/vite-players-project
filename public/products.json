@@ -1,0 +1,91 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b62d6ead",
+        "name": "Kevin De Bruyne ",
+        "seller": "Manchester City",
+        "price": 29,
+        "rankings": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kevin_De_Bruyne.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a7b362d6ead",
+        "name": "Andres Iniesta",
+        "seller": "Vissel Kobe",
+        "price": 30,
+        "rankings": 9,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/5/52/Andres_Iniesta.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-b2f-a4d-a77b362d6ead",
+        "name": "Eden Hazard ",
+        "seller": "Real Madrid",
+        "price": 31,
+        "rankings": 8,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/40/Eden_Hazard_2018.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-b2f-a74d-a77b362d6ead",
+        "name": "Robert Lewandowski",
+        "seller": "Barcelona",
+        "price": 35,
+        "rankings": 7,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Robert_Lewandowski.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e139-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Erling Haaland",
+        "seller": "Manchester City",
+        "price": 39,
+        "rankings": 6,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Erling_Haaland_2020.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e3b9-2d54-4b2f-a74d-a77b362d6ad",
+        "name": "Mohamed Salah",
+        "seller": "LiverPool",
+        "price": 53,
+        "rankings": 5,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mohamed_Salah_2018.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "24e13b9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": "Neymar ",
+        "seller": "Paris Saint-Germain",
+        "price": 87,
+        "rankings": 4,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Neymar_PSG.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "12454-4b2f-a74d-a77b362d6ead",
+        "name": "Kevin De Bruyne ",
+        "seller": "Manchester City",
+        "price": 29,
+        "rankings": 10,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Kevin_De_Bruyne.jpg",
+        "quantity": 0
+    }, {
+        "id": "124e9-2d54-4b2f-a74d-a77b362d6ead",
+        "name": " Lionel Messi ",
+        "seller": "Barcelona",
+        "price": 120,
+        "rankings": 2,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg",
+        "quantity": 0
+    },
+    {
+        "id": "124e13b9-2d54-4b2f-d-a77b362d6ead",
+        "name": "Kylian Mbappe",
+        "seller": "Paris Saint-Germain",
+        "price": 128,
+        "rankings": 1,
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Kylian_Mbapp%C3%A9.jpg",
+        "quantity": 0
+    }
+]
