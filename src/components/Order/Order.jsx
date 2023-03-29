@@ -15,9 +15,9 @@ const Order = (props) => {
             <p>Total Price: ${totalPrice} million</p>
             <h2>List of Selected Players:</h2>
             {
-                cartPlayer.map(player => <SelectedPlayer
+                cartPlayer.map((player,index) => <SelectedPlayer
                      player={player}
-                   
+                   index={index+1}
                 ></SelectedPlayer>)
             }
         </div>

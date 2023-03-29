@@ -1,11 +1,15 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 const SelectedPlayer = (props) => {
     // console.log(props);
-    let index = 0;
+    const [count, setCount] = useState(0);
+
+    //const increment = () => setCount(count + 1);
+
     return (
-        <div>
-            <h3>{index+1}.{props.player.name}</h3>
+        <div >
+
+            <p>{props.index}.{props.player.name}</p>
         </div>
     );
 };

@@ -8,7 +8,7 @@ const Players = () => {
   const [cartPlayer, setCartPlayer] = useState([]);
   
   useEffect(() => {
-    fetch('public/products.json')
+    fetch('products.json')
       .then(res => res.json())
       .then(data => setPlayers(data))
   }, [])
@@ -23,7 +23,7 @@ const Players = () => {
     }
     }
     setCartPlayer(storedCartPlayer);
-  //  console.log(cartPlayer);
+   console.log(storedCartPlayer);
   
   }, [players])
   const addToCart = (player) => {
@@ -46,6 +46,7 @@ const Players = () => {
           ></Player>)
         }
       </div>
+      <div>
       <div className='order'>
         <h2 className='order-title'>Order Summary</h2>
         <Order
@@ -53,6 +54,7 @@ const Players = () => {
           key={cartPlayer.id}
           
         ></Order>
+      </div>
       </div>
     </div>
   );
